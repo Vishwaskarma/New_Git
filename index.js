@@ -12,3 +12,4 @@ console.log(res)
 
 const res2=arr.filter((el)=>el%2 !=0)
 console.log(res2)
+
