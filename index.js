@@ -16,3 +16,9 @@ console.log(res2)
 
 const res3=arr.reduce((acc,curr)=>curr+=acc);
 console.log(res3)
+
+
+const sayHeelo_To_Pwan=()=>{
+return "Hello pawan";
+}
+console.log(sayHeelo_To_Pwan())
