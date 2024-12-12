@@ -16,3 +16,6 @@ console.log(res2)
 
 const res3=arr.reduce((acc,curr)=>curr+=acc);
 console.log(res3)
+
+
+// Tested and ready to push
